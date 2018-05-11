@@ -1,0 +1,56 @@
+{ "resources" : [
+    {
+      "title": "A Guide To Pull Requests",
+      "url": "https://www.notion.so/chargify/A-Guide-To-Pull-Requests-b5b0b95b2ec646068d3846b4e6dc635b",
+      "description": "Our Pull Request Manifesto",
+      "tags": [
+        "PRs",
+        "Pull Requests",
+        "Dev Process Flow",
+        "Github"
+      ],
+      "questions": [
+        "What needs to be in a PR?",
+        "What do I do if my PR has migrations?"
+      ]
+    },
+    {
+      "title": "Chargify Style and Patterns",
+      "url": "https://github.com/chargify/style-and-patterns",
+      "description": "style-and-patterns",
+      "tags": [
+        "style",
+        "patterns",
+        "syntax",
+        "code style",
+        "specs testing",
+        "best practices"
+      ],
+      "questions": [
+        "How do we write specs?",
+        "Why is the pretzel operator the best?",
+        "What's our code style?",
+        "What are our code best practices?"
+      ]
+    },
+    {
+      "title": "Bigbull - Elasticsearch in Chargify app",
+      "url": "https://www.notion.so/chargify/Bigbull-Elasticsearch-in-Chargify-app-0efc91af7db74a72b49b76db70f41bd1",
+      "description": "",
+      "tags": [
+        "ES",
+        "Elasticsearch",
+        "Bigbull",
+        "putmapping puttemplate",
+        "repository"
+      ],
+      "questions": [
+        "How does ES work in app?",
+        "How do I modify a Bigbull repository?",
+        "How do I do a putmapping?",
+        "What goes in a Bigbull mapping?",
+        "What's the difference between a Bigbull model and Repo?"
+      ]
+    }
+  ]
+}
