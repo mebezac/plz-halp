@@ -80,7 +80,7 @@ function switchOutExampleQuestion() {
   }, oldPlaceholderDelay)
 }
 
-fetch('/resources.json')
+fetch('resources.json')
   .then(data => data.json())
   .then(data => {
     resources.push(...data.resources)
